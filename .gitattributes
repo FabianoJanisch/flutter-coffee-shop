@@ -1,4 +1,0 @@
-build/web/* linguist-vendored
-docs/* linguist-vendored
-
-*.dart linguist-language=Dart
